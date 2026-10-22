@@ -1,0 +1,20 @@
+{
+  "name": "04vite",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "homepage": "https://github.com/PARTHPIPALIYA1101/React#readme",
+  "bugs": {
+    "url": "https://github.com/PARTHPIPALIYA1101/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PARTHPIPALIYA1101/React.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
